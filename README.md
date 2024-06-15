@@ -8,7 +8,7 @@ Welcome to NEWScan, the machine learning sentinel that guards against the spread
 
 ## Quick Start
 1. Clone the repository: `git clone https://github.com/AyushmanTomar/NEWScan.git`
-2. Install dependencies: `pip install -r requirements.txt`
+2. Install dependencies 
 3. Run NEWScan jupyter notebook to learn methodology.
 
 ## Contribute
